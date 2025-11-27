@@ -18,13 +18,13 @@ git clone <repository-url>
 cd www.ewedinvite.site
 ```
 
-2. Mở file `TUANKIET&NGOCHOA.html` trong trình duyệt web
+2. Mở file `QUOCHAI&THITHONG.html` trong trình duyệt web
 
 ## 📁 Cấu trúc thư mục
 
 ```
 www.ewedinvite.site/
-├── TUANKIET&NGOCHOA.html  # File HTML chính
+├── QUOCHAI&THITHONG.html  # File HTML chính
 ├── images/                # Thư mục chứa hình ảnh
 │   ├── anhdaidien.jpg     # Ảnh đại diện
 │   ├── anhlich.jpg        # Ảnh lịch
